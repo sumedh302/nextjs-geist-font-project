@@ -1,0 +1,98 @@
+2025-08-04 09:24:41,195 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-04 09:24:41,195 - __main__ - INFO - Bot shutdown complete
+2025-08-04 09:49:20,824 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 09:49:20,825 - discord.client - INFO - logging in using static token
+2025-08-04 09:49:21,254 - bot - INFO - Setting up bot...
+2025-08-04 09:49:21,261 - bot - INFO - Loaded Free Fire commands
+2025-08-04 09:49:21,528 - bot - INFO - Synced 2 slash commands
+2025-08-04 09:49:21,880 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ee272553d736dd34ff6c6429986d3dd9).
+2025-08-04 09:49:23,891 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 09:49:23,891 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 09:49:23,891 - bot - INFO - Guilds: 2
+2025-08-04 09:50:21,559 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 09:50:21,559 - discord.client - INFO - logging in using static token
+2025-08-04 09:50:22,064 - bot - INFO - Setting up bot...
+2025-08-04 09:50:22,072 - bot - INFO - Loaded Free Fire commands
+2025-08-04 09:50:22,315 - bot - INFO - Synced 2 slash commands
+2025-08-04 09:50:22,726 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98452611e7e84f335270ebb2f638fad7).
+2025-08-04 09:50:24,739 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 09:50:24,740 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 09:50:24,740 - bot - INFO - Guilds: 2
+2025-08-04 09:53:17,235 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 09:53:17,235 - discord.client - INFO - logging in using static token
+2025-08-04 09:53:17,646 - bot - INFO - Setting up bot...
+2025-08-04 09:53:17,652 - bot - INFO - Loaded Free Fire commands
+2025-08-04 09:53:17,849 - bot - INFO - Synced 2 slash commands
+2025-08-04 09:53:18,068 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b3e5b41b9b7c3c770dd5cab49ae4dead).
+2025-08-04 09:53:20,080 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 09:53:20,080 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 09:53:20,080 - bot - INFO - Guilds: 2
+2025-08-04 09:54:59,128 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 09:54:59,129 - discord.client - INFO - logging in using static token
+2025-08-04 09:54:59,705 - bot - INFO - Setting up bot...
+2025-08-04 09:54:59,708 - bot - INFO - Loaded Free Fire commands
+2025-08-04 09:55:00,136 - bot - INFO - Synced 2 slash commands
+2025-08-04 09:55:00,530 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a6b79614df4b8f01f2f6f814528b08fd).
+2025-08-04 09:55:02,545 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 09:55:02,545 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 09:55:02,545 - bot - INFO - Guilds: 2
+2025-08-04 09:55:47,561 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 09:55:47,561 - discord.client - INFO - logging in using static token
+2025-08-04 09:55:48,004 - bot - INFO - Setting up bot...
+2025-08-04 09:55:48,007 - bot - INFO - Loaded Free Fire commands
+2025-08-04 09:55:48,280 - bot - INFO - Synced 2 slash commands
+2025-08-04 09:55:48,512 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7d1239ad71d2d4a413b627e1955cd344).
+2025-08-04 09:55:50,535 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 09:55:50,535 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 09:55:50,536 - bot - INFO - Guilds: 2
+2025-08-04 10:05:37,265 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:05:37,267 - discord.client - INFO - logging in using static token
+2025-08-04 10:05:37,676 - bot - INFO - Setting up bot...
+2025-08-04 10:05:37,688 - bot - INFO - Loaded Free Fire commands
+2025-08-04 10:05:37,967 - bot - INFO - Synced 2 slash commands
+2025-08-04 10:05:38,217 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fc5f4c84f4623c1da00784a38d4584f8).
+2025-08-04 10:05:40,247 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 10:05:40,247 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 10:05:40,247 - bot - INFO - Guilds: 2
+2025-08-04 10:09:10,213 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:09:10,213 - discord.client - INFO - logging in using static token
+2025-08-04 10:09:10,565 - bot - INFO - Setting up bot...
+2025-08-04 10:09:10,578 - bot - INFO - Loaded Free Fire commands
+2025-08-04 10:09:10,832 - bot - INFO - Synced 2 slash commands
+2025-08-04 10:09:11,061 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f87013a964431ba89c07ca72578236bf).
+2025-08-04 10:09:13,070 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 10:09:13,071 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 10:09:13,071 - bot - INFO - Guilds: 2
+2025-08-04 10:20:51,094 - keep_alive - INFO - Starting keep-alive web server on port 5000
+2025-08-04 10:20:51,097 - keep_alive - INFO - Keep-alive web server started
+2025-08-04 10:20:51,099 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:20:51,099 - discord.client - INFO - logging in using static token
+2025-08-04 10:20:51,115 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.71.2:5000
+2025-08-04 10:20:51,115 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 10:20:52,685 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:20:52] "GET / HTTP/1.1" 200 -
+2025-08-04 10:20:53,181 - bot - INFO - Setting up bot...
+2025-08-04 10:20:53,183 - bot - INFO - Loaded Free Fire commands
+2025-08-04 10:20:53,448 - bot - INFO - Synced 2 slash commands
+2025-08-04 10:20:53,687 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ad9263b7504a9aa1aa6ebdcd5e6b2748).
+2025-08-04 10:20:55,703 - bot - INFO - nezuko-chan#3779 is now online!
+2025-08-04 10:20:55,703 - bot - INFO - Bot ID: 1101710852798824489
+2025-08-04 10:20:55,703 - bot - INFO - Guilds: 2
+2025-08-04 10:21:01,074 - werkzeug - INFO - 127.0.0.1 - - [04/Aug/2025 10:21:01] "GET / HTTP/1.1" 200 -
+2025-08-04 10:22:23,496 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:22:23] "GET / HTTP/1.1" 200 -
+2025-08-04 10:22:23,909 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:22:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 10:26:31,697 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:26:31] "HEAD / HTTP/1.1" 200 -
+2025-08-04 10:31:35,909 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:31:35] "HEAD / HTTP/1.1" 200 -
+2025-08-04 10:35:20,211 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:35:20] "GET / HTTP/1.1" 200 -
+2025-08-04 10:35:31,069 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:35:31] "GET / HTTP/1.1" 200 -
+2025-08-04 10:35:37,691 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:35:37] "GET / HTTP/1.1" 200 -
+2025-08-04 10:36:39,770 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:36:39] "HEAD / HTTP/1.1" 200 -
+2025-08-04 10:36:43,739 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:36:43] "GET / HTTP/1.1" 200 -
+2025-08-04 10:36:44,288 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:36:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 10:40:21,297 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:40:21] "GET / HTTP/1.1" 200 -
+2025-08-04 10:41:01,730 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:41:01] "[33mGET /like?id=2417691131 HTTP/1.1[0m" 404 -
+2025-08-04 10:41:43,654 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:41:43] "HEAD / HTTP/1.1" 200 -
+2025-08-04 10:42:07,694 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:42:07] "GET / HTTP/1.1" 200 -
+2025-08-04 10:44:56,046 - werkzeug - INFO - 172.31.71.2 - - [04/Aug/2025 10:44:56] "GET / HTTP/1.1" 200 -
